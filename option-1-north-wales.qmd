@@ -21,6 +21,8 @@ A mind-blowing underground zip-line and adventure course in Blaenau Ffestiniog.
 <iframe src="https://www.youtube.com/embed/_bKqTKIe3JI" title="Caverns 2024 - Zip World Llechwedd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+---
+
 ### Zip World Quarry Karts
 
 The UK's only mountain kart dirt track in Bethesda.
@@ -33,6 +35,8 @@ The UK's only mountain kart dirt track in Bethesda.
 <iframe src="https://www.youtube.com/embed/CPnSawwUx6s" title="Quarry Karts 2024 - Zip World Penrhyn Quarry" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+---
+
 ### Penderyn Distillery Tour
 
 Welsh whisky tasting right in town (Llandudno).
@@ -41,10 +45,12 @@ Welsh whisky tasting right in town (Llandudno).
 
 [![Penderyn Llandudno Distillery](https://www.penderyn.wales/wp-content/uploads/2021/07/Llandudno-Tour-banner-Final.jpg)](https://www.penderyn.wales/tours-llandudno/)
 
+---
+
 ### Accommodation: Travelodge Llandudno (2 nights)
 
 - Official page: [Travelodge Llandudno](https://www.travelodge.co.uk/hotels/562/Llandudno-hotel)
-- Video fallback: [Watch on YouTube](https://www.youtube.com/watch?v=vKK32qv5zpo)
+- [Watch on YouTube](https://www.youtube.com/watch?v=vKK32qv5zpo)
 
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/vKK32qv5zpo?rel=0" title="Travelodge Llandudno | Llandudno, United Kingdom | Hotel Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -52,36 +58,17 @@ Welsh whisky tasting right in town (Llandudno).
 
 ## Cost Breakdown
 
-### Activity and stay costs (group of 8)
+### Activity and stay costs (group of 9)
 
-Provided figures:
+| Item | Group cost | Per person (9 pay) | Per person (8 pay, stag free) |
+|---|---:|---:|---:|
+| Travelodge (4 twins + 1 king) | £699.90 | £77.77 | £87.49 |
+| Penderyn Distillery Tour | £117.00 | £13.00 | £14.63 |
+| Zip World Caverns (standard) | £729.00 | £81.00 | £91.13 |
+| Zip World Caverns (early bird) | £619.65 | £68.85 | £77.46 |
+| Quarry Karts (standard) | £441.00 | £49.00 | £55.13 |
+| Quarry Karts (early bird) | £374.85 | £41.65 | £46.86 |
+| **Total (standard rates)** | **£1,986.90** | **£220.77** | **£248.36** |
+| **Total (early bird rates)** | **£1,811.40** | **£201.27** | **£226.43** |
 
-- Travelodge: GBP 699.90 / 9 = **GBP 77.77pp**
-- Penderyn tour: GBP 117.00 / 9 = **GBP 13.00pp**
-- Zip World Caverns: GBP 729.00 standard or GBP 619.65 early bird
-- Quarry Karts: GBP 441.00 standard or GBP 374.85 early bird
-
-| Item | Group cost | Per person (9-way split) |
-|---|---:|---:|
-| Travelodge (4 twins + 1 king) | GBP 699.90 | GBP 77.77 |
-| Penderyn tour | GBP 117.00 | GBP 13.00 |
-| Zip World Caverns (standard) | GBP 729.00 | GBP 81.00 |
-| Zip World Caverns (early bird) | GBP 619.65 | GBP 68.85 |
-| Quarry Karts (standard) | GBP 441.00 | GBP 49.00 |
-| Quarry Karts (early bird) | GBP 374.85 | GBP 41.65 |
-| **Total (standard rates)** | **GBP 1,986.90** | **GBP 220.77** |
-| **Total (early bird rates)** | **GBP 1,811.40** | **GBP 201.27** |
-
-### Total per person: stag included in split (9 pay)
-
-| Pricing scenario | Group total | Per person |
-|---|---:|---:|
-| Standard (all standard rates) | GBP 1,986.90 | GBP 220.77 |
-| Early bird (where available) | GBP 1,811.40 | GBP 201.27 |
-
-### Total per person: stag not paying (8 pay)
-
-| Pricing scenario | Group total | Per paying person |
-|---|---:|---:|
-| Standard (all standard rates) | GBP 1,986.90 | GBP 248.36 |
-| Early bird (where available) | GBP 1,811.40 | GBP 226.43 |
+> Early bird discount requires booking 30+ days in advance. Savings on individual tickets only.

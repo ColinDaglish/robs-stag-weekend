@@ -58,9 +58,9 @@ Equipment hire plus 500 paintballs per person. Purpose-built game zones, film-li
 
 ## Cost Breakdown
 
-### Activity and stay costs
+### Activity and stay costs (group of 9)
 
-| Item | Group cost | Per person (9-way split) | Per person (8-way split, stag not paying) |
+| Item | Group cost | Per person (9 pay) | Per person (8 pay, stag free) |
 |---|---:|---:|---:|
 | Beer Bike | £390.00 | £43.33 | £48.75 |
 | Cheddar Gorge Caving | £255.00 | £28.33 | £31.88 |
