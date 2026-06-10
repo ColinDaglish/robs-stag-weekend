@@ -1,0 +1,71 @@
+---
+title: "Option 2: Bristol"
+---
+
+## Basecamp
+
+- **Location:** Bristol
+- **Dates:** 25th - 27th Sept 2026
+
+## The Itinerary
+
+### Bristol Beer Bike
+
+A 60-minute pedal-powered bar crawl through Bristol city centre — includes 4 beers each. Quiet and social, great start to the weekend.
+
+- Official page: [Bristol Beer Bike](https://bristolbeerbike.com/product/ride-on-beerbike/)
+
+<div class="video-embed">
+<video controls style="width:100%;max-width:960px;border-radius:6px;">
+  <source src="https://bristolbeerbike.com/wp-content/uploads/2026/03/hp_video.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="https://bristolbeerbike.com" target="_blank">Visit Bristol Beer Bike</a>.
+</video>
+</div>
+
+---
+
+### Cheddar Gorge Adventure Caving
+
+An underground expedition through Gough's Cave system — crawling, climbing, and squeezing through chambers including the Letterbox and the Bottomless Pit. Suitable for all abilities.
+
+- Official page: [Cheddar Gorge Adventure Caving](https://www.cheddargorge.co.uk/things-to-do/rocksport-activities/adventure-caving)
+
+[![Cheddar Gorge Adventure Caving](https://media.umbraco.io/longleat-cheddar/bdgb5bdd/rocksport_hero2-min.png)](https://www.cheddargorge.co.uk/things-to-do/rocksport-activities/adventure-caving)
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/fCMa9QMZPYc" title="Cheddar Gorge Adventure Caving" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+
+### Bedlam Paintball — Absolute Bedlam
+
+Equipment hire plus 500 paintballs per person. Purpose-built game zones, film-like scenarios, Bristol venue.
+
+- Official page: [Bedlam Paintball](https://bedlampaintball.co.uk/venue/bristol/)
+
+[![Bedlam Paintball](https://bedlampaintball.co.uk/wp-content/uploads/2019/12/Bedlam-Paintaball-Man-Mask-centered-2.jpg)](https://bedlampaintball.co.uk/venue/bristol/)
+
+---
+
+### Accommodation: The Bristol Wing (2 nights)
+
+2 × quadruple rooms with private bathrooms (2 singles and 3 bunk beds per room), sleeping 9 guests across both rooms.
+
+- Official page: [The Bristol Wing on Booking.com](https://www.booking.com/hotel/gb/the-bristol-wing-bristol.en-gb.html)
+
+---
+
+## Cost Breakdown
+
+### Activity and stay costs
+
+| Item | Group cost | Per person (9-way split) | Per person (8-way split, stag not paying) |
+|---|---:|---:|---:|
+| Beer Bike | £390.00 | £43.33 | £48.75 |
+| Cheddar Gorge Caving | £255.00 | £28.33 | £31.88 |
+| Paintball — Absolute Bedlam | £59.95 pp | £59.95 | £67.44 |
+| Accommodation — Bristol Wing | £508.00 | £56.44 | £63.50 |
+| **Total** | **£1,692.55** | **£188.06** | **£211.57** |
+
+> Paintball is priced per person. The stag-not-paying figure redistributes the stag's £59.95 across the 8 paying guests.

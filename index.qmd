@@ -19,7 +19,10 @@ Caverns, Zip World Quarry Karts, and a Penderyn distillery tour.
 :::
 
 ::: {.option-card}
-### More options
+### Option 2: Bristol
 
-Additional option pages can be added here as soon as you confirm more plans.
+City-based weekend in Bristol with a Beer Bike ride, Cheddar Gorge adventure caving,
+paintball at Bedlam, and a stay at The Bristol Wing hostel.
+
+[View Option 2 details](option-2-bristol.qmd)
 :::

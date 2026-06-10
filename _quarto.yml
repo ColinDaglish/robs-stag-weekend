@@ -10,6 +10,8 @@ website:
         text: Home
       - href: option-1-north-wales.qmd
         text: Option 1
+      - href: option-2-bristol.qmd
+        text: Option 2
 
 format:
   html:
