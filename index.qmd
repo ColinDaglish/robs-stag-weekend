@@ -1,0 +1,13 @@
+---
+title: "Rob's Stag Weekend"
+---
+
+# Welcome
+
+This Quarto site is configured to publish to GitHub Pages with GitHub Actions.
+
+## Next steps
+
+1. Edit this page with your trip details.
+2. Push the repository to GitHub.
+3. Enable GitHub Pages with the source set to GitHub Actions in the repository settings.

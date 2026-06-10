@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Rob's Stag Weekend"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: option-1-north-wales.qmd
+        text: Option 1
+
+format:
+  html:
+    theme: cosmo
+    toc: true

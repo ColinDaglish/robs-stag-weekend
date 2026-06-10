@@ -1,0 +1,51 @@
+---
+title: "Option 1: The North Wales Action Weekend"
+---
+
+## Basecamp
+
+- **Location:** Llandudno, North Wales
+- **Dates:** 25th - 27th Sept 2026
+
+## The Itinerary
+
+### Zip World Caverns
+
+A mind-blowing underground zip-line and adventure course in Blaenau Ffestiniog.
+
+- Official page: [Zip World Caverns](https://www.zipworld.co.uk/adventures/caverns)
+
+[![Zip World Caverns](https://transforms.zipworld.co.uk/production/images/Adventures/Caverns/Caverns-9.jpg?w=1024&h=576&q=40&auto=format&fit=crop&dm=1757342573&s=36b736642e987eb723ed4ee517daa013)](https://www.zipworld.co.uk/adventures/caverns)
+
+<iframe width="1232" height="696" src="https://www.youtube.com/embed/_bKqTKIe3JI" title="Caverns 2024 - Zip World Llechwedd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Zip World Quarry Karts
+
+The UK's only mountain kart dirt track in Bethesda.
+
+- Official page: [Zip World Quarry Karts](https://www.zipworld.co.uk/adventures/quarry-karts)
+
+[![Zip World Quarry Karts](https://transforms.zipworld.co.uk/production/images/Adventures/Quarry-Karts/5X7A9960-2.jpg?w=1024&h=576&q=40&auto=format&fit=crop&crop=focalpoint&fp-x=0.6987&fp-y=0.5521&dm=1757343002&s=bc532c56f462380315e0606871fe3916)](https://www.zipworld.co.uk/adventures/quarry-karts)
+
+<iframe width="1232" height="696" src="https://www.youtube.com/embed/CPnSawwUx6s" title="Quarry Karts 2024 - Zip World Penrhyn Quarry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1232" height="696" src="https://www.youtube.com/embed/CPnSawwUx6s" title="Quarry Karts 2024 - Zip World Penrhyn Quarry (Second View)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Penderyn Distillery Tour
+
+Welsh whisky tasting right in town (Llandudno).
+
+- Official page: [Penderyn Llandudno Tour](https://www.penderyn.wales/tours-llandudno/)
+
+[![Penderyn Llandudno Distillery](https://www.penderyn.wales/wp-content/uploads/2021/07/Llandudno-Tour-banner-Final.jpg)](https://www.penderyn.wales/tours-llandudno/)
+
+### Accommodation: Travelodge Llandudno (2 nights)
+
+- Official page: [Travelodge Llandudno](https://www.travelodge.co.uk/hotels/562/Llandudno-hotel)
+- Video fallback: [Watch on YouTube](https://www.youtube.com/watch?v=vKK32qv5zpo)
+
+<iframe width="1840" height="1035" src="https://www.youtube.com/embed/vKK32qv5zpo?rel=0" title="Travelodge Llandudno | Llandudno, United Kingdom | Hotel Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Estimated Cost
+
+I recon we could get it for around **GBP220 per person**, depending on whether we can get the early bird rates.
