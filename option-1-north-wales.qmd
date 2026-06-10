@@ -54,10 +54,17 @@ Welsh whisky tasting right in town (Llandudno).
 
 ### Activity and stay costs (group of 8)
 
+Provided figures:
+
+- Travelodge: GBP 699.90 / 8 = **GBP 87.50pp**
+- Penderyn tour: GBP 117.00 / 8 = **GBP 14.70pp**
+- Zip World Caverns: GBP 729.00 standard or GBP 619.65 early bird
+- Quarry Karts: GBP 441.00 standard or GBP 374.85 early bird
+
 | Item | Group cost | Per person (8-way split) |
 |---|---:|---:|
-| Travelodge (4 twins + 1 king) | GBP 699.90 | GBP 87.49 |
-| Penderyn tour | GBP 117.00 | GBP 14.63 |
+| Travelodge (4 twins + 1 king) | GBP 699.90 | GBP 87.50 |
+| Penderyn tour | GBP 117.00 | GBP 14.70 |
 | Zip World Caverns (standard) | GBP 729.00 | GBP 91.13 |
 | Zip World Caverns (early bird) | GBP 619.65 | GBP 77.46 |
 | Quarry Karts (standard) | GBP 441.00 | GBP 55.13 |
