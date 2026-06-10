@@ -17,7 +17,9 @@ A mind-blowing underground zip-line and adventure course in Blaenau Ffestiniog.
 
 [![Zip World Caverns](https://transforms.zipworld.co.uk/production/images/Adventures/Caverns/Caverns-9.jpg?w=1024&h=576&q=40&auto=format&fit=crop&dm=1757342573&s=36b736642e987eb723ed4ee517daa013)](https://www.zipworld.co.uk/adventures/caverns)
 
-<iframe width="1232" height="696" src="https://www.youtube.com/embed/_bKqTKIe3JI" title="Caverns 2024 - Zip World Llechwedd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/_bKqTKIe3JI" title="Caverns 2024 - Zip World Llechwedd" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### Zip World Quarry Karts
 
@@ -27,9 +29,9 @@ The UK's only mountain kart dirt track in Bethesda.
 
 [![Zip World Quarry Karts](https://transforms.zipworld.co.uk/production/images/Adventures/Quarry-Karts/5X7A9960-2.jpg?w=1024&h=576&q=40&auto=format&fit=crop&crop=focalpoint&fp-x=0.6987&fp-y=0.5521&dm=1757343002&s=bc532c56f462380315e0606871fe3916)](https://www.zipworld.co.uk/adventures/quarry-karts)
 
-<iframe width="1232" height="696" src="https://www.youtube.com/embed/CPnSawwUx6s" title="Quarry Karts 2024 - Zip World Penrhyn Quarry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="1232" height="696" src="https://www.youtube.com/embed/CPnSawwUx6s" title="Quarry Karts 2024 - Zip World Penrhyn Quarry (Second View)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/CPnSawwUx6s" title="Quarry Karts 2024 - Zip World Penrhyn Quarry" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### Penderyn Distillery Tour
 
@@ -44,8 +46,33 @@ Welsh whisky tasting right in town (Llandudno).
 - Official page: [Travelodge Llandudno](https://www.travelodge.co.uk/hotels/562/Llandudno-hotel)
 - Video fallback: [Watch on YouTube](https://www.youtube.com/watch?v=vKK32qv5zpo)
 
-<iframe width="1840" height="1035" src="https://www.youtube.com/embed/vKK32qv5zpo?rel=0" title="Travelodge Llandudno | Llandudno, United Kingdom | Hotel Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/vKK32qv5zpo?rel=0" title="Travelodge Llandudno | Llandudno, United Kingdom | Hotel Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## Estimated Cost
+## Cost Breakdown
 
-I recon we could get it for around **GBP220 per person**, depending on whether we can get the early bird rates.
+### Activity and stay costs (group of 8)
+
+| Item | Group cost | Per person (8-way split) |
+|---|---:|---:|
+| Travelodge (4 twins + 1 king) | GBP 699.90 | GBP 87.49 |
+| Penderyn tour | GBP 117.00 | GBP 14.63 |
+| Zip World Caverns (standard) | GBP 729.00 | GBP 91.13 |
+| Zip World Caverns (early bird) | GBP 619.65 | GBP 77.46 |
+| Quarry Karts (standard) | GBP 441.00 | GBP 55.13 |
+| Quarry Karts (early bird) | GBP 374.85 | GBP 46.86 |
+
+### Total per person: stag included in split (8 pay)
+
+| Pricing scenario | Group total | Per person |
+|---|---:|---:|
+| Standard (all standard rates) | GBP 1,986.90 | GBP 248.36 |
+| Early bird (where available) | GBP 1,811.40 | GBP 226.43 |
+
+### Total per person: stag not paying (7 pay)
+
+| Pricing scenario | Group total | Per paying person |
+|---|---:|---:|
+| Standard (all standard rates) | GBP 1,986.90 | GBP 283.84 |
+| Early bird (where available) | GBP 1,811.40 | GBP 258.77 |

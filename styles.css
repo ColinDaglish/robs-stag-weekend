@@ -1,0 +1,20 @@
+.video-embed {
+    margin: 1rem 0 2rem;
+}
+
+.video-embed iframe {
+    display: block;
+    width: 100%;
+    max-width: 960px;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    border: 0;
+}
+
+.option-card {
+    border: 1px solid #d7dde5;
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    margin: 1rem 0;
+    background: #ffffff;
+}

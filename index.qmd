@@ -4,10 +4,22 @@ title: "Rob's Stag Weekend"
 
 # Welcome
 
-This Quarto site is configured to publish to GitHub Pages with GitHub Actions.
+Welcome to the shortlist for Rob's stag weekend plans. Each option page includes
+itinerary, links, videos, and pricing.
 
-## Next steps
+## Options
 
-1. Edit this page with your trip details.
-2. Push the repository to GitHub.
-3. Enable GitHub Pages with the source set to GitHub Actions in the repository settings.
+::: {.option-card}
+### Option 1: The North Wales Action Weekend
+
+Basecamp in Llandudno with high-adrenaline activity days including Zip World
+Caverns, Zip World Quarry Karts, and a Penderyn distillery tour.
+
+[View Option 1 details](option-1-north-wales.qmd)
+:::
+
+::: {.option-card}
+### More options
+
+Additional option pages can be added here as soon as you confirm more plans.
+:::
