@@ -37,17 +37,7 @@ The UK's only mountain kart dirt track in Bethesda.
 
 ---
 
-### Penderyn Distillery Tour
-
-Welsh whisky tasting right in town (Llandudno).
-
-- Official page: [Penderyn Llandudno Tour](https://www.penderyn.wales/tours-llandudno/)
-
-[![Penderyn Llandudno Distillery](https://www.penderyn.wales/wp-content/uploads/2021/07/Llandudno-Tour-banner-Final.jpg)](https://www.penderyn.wales/tours-llandudno/)
-
----
-
-### Accommodation: Travelodge Llandudno (2 nights)
+### Accommodation Option A: Travelodge Llandudno (2 nights)
 
 - Official page: [Travelodge Llandudno](https://www.travelodge.co.uk/hotels/562/Llandudno-hotel)
 - [Watch on YouTube](https://www.youtube.com/watch?v=vKK32qv5zpo)
@@ -56,19 +46,62 @@ Welsh whisky tasting right in town (Llandudno).
 <iframe src="https://www.youtube.com/embed/vKK32qv5zpo?rel=0" title="Travelodge Llandudno | Llandudno, United Kingdom | Hotel Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+---
+
+### Accommodation Option B: Private House, Llandudno (2 nights)
+
+Sleeps up to 20 — the whole group under one roof. Good base to come back to after the evening out.
+
+- **Price:** ~£1,519 for 2 nights (whole house)
+- Official page: [House on Booking.com](https://www.booking.com/hotel/gb/house-sleeps-upto-20-people.en-gb.html)
+
+---
+
+## Getting Around
+
+Both activities are day trips from Llandudno. Caverns first (furthest point), then Quarry Karts on the way back — no backtracking.
+
+### Suggested Weekend Flow
+
+| Time | Activity | Notes |
+|---|---|---|
+| **Sat 10am** | Zip World Caverns, Blaenau Ffestiniog | ~3 hours, done by ~1pm |
+| **Sat ~1pm** | Lunch near Blaenau Ffestiniog | Time to eat before the drive |
+| **Sat ~1:45pm** | Drive to Quarry Karts, Bethesda | ~40 min |
+| **Sat 3pm** | Zip World Quarry Karts | ~2 hours, done by ~5pm |
+| **Sat ~5:35pm** | Drive back to Llandudno | ~35 min |
+| **Sat evening** | Freshen up, food, drinks | Evening free in Llandudno |
+
+### Distances
+
+| Leg | From | To | Distance | Drive time |
+|---|---|---|---:|---:|
+| 1 | Llandudno (base) | Zip World Caverns, Blaenau Ffestiniog | ~23 mi | ~50 min |
+| 2 | Zip World Caverns | Zip World Quarry Karts, Bethesda | ~19 mi | ~40 min |
+| 3 | Zip World Quarry Karts | Llandudno (base) | ~17 mi | ~35 min |
+| | | **Total driving** | **~59 mi** | **~2 h 5 min** |
+
 ## Cost Breakdown
 
 ### Activity and stay costs (group of 9)
 
-| Item | Group cost | Per person (9 pay) | Per person (8 pay, stag free) |
-|---|---:|---:|---:|
-| Travelodge (4 twins + 1 king) | £699.90 | £77.77 | £87.49 |
-| Penderyn Distillery Tour | £117.00 | £13.00 | £14.63 |
-| Zip World Caverns (standard) | £729.00 | £81.00 | £91.13 |
-| Zip World Caverns (early bird) | £619.65 | £68.85 | £77.46 |
-| Quarry Karts (standard) | £441.00 | £49.00 | £55.13 |
-| Quarry Karts (early bird) | £374.85 | £41.65 | £46.86 |
-| **Total (standard rates)** | **£1,986.90** | **£220.77** | **£248.36** |
-| **Total (early bird rates)** | **£1,811.40** | **£201.27** | **£226.43** |
+| Item | Group cost | Per person |
+|---|---:|---:|
+| **Option A — Travelodge** | | |
+| Travelodge (4 twins + 1 king) | £699.90 | £87.49 |
+| Zip World Caverns (standard) | £729.00 | £91.13 |
+| Zip World Caverns (early bird) | £619.65 | £77.46 |
+| Quarry Karts (standard) | £441.00 | £55.13 |
+| Quarry Karts (early bird) | £374.85 | £46.86 |
+| **Total A — standard rates** | **£1,869.90** | **£233.74** |
+| **Total A — early bird rates** | **£1,694.40** | **£211.80** |
+| **Option B — Private House** | | |
+| Private House (2 nights) | £1,519.00 | £189.88 |
+| Zip World Caverns (standard) | £729.00 | £91.13 |
+| Zip World Caverns (early bird) | £619.65 | £77.46 |
+| Quarry Karts (standard) | £441.00 | £55.13 |
+| Quarry Karts (early bird) | £374.85 | £46.86 |
+| **Total B — standard rates** | **£2,689.00** | **£336.13** |
+| **Total B — early bird rates** | **£2,513.50** | **£314.19** |
 
 > Early bird discount requires booking 30+ days in advance. Savings on individual tickets only.
