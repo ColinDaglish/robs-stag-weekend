@@ -12,6 +12,8 @@ website:
         text: Option 1
       - href: option-2-bristol.qmd
         text: Option 2
+      - href: option-3-nottingham.qmd
+        text: Option 3
 
 format:
   html:

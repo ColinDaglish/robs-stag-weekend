@@ -70,3 +70,14 @@ paintball at Bedlam, and a stay at The Bristol Wing hostel.
 
 [View Option 2 details](option-2-bristol.qmd)
 :::
+
+::: {.option-card}
+### Option 3: Nottingham
+
+City-based weekend in Nottingham with stag paintball, indoor go karting at Team Sport,
+a Bierkeller Oktoberfest evening, and a 5-bedroom house for the group.
+
+**Cost per person (stag goes free): £211–£214**
+
+[View Option 3 details](option-3-nottingham.qmd)
+:::
