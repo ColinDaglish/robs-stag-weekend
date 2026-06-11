@@ -7,6 +7,46 @@ title: "Rob's Stag Weekend"
 Welcome to the shortlist for Rob's stag weekend plans. Each option page includes
 itinerary, links, videos, and pricing.
 
+---
+
+## The Brief
+
+### Stag's Specs
+
+| | |
+|---|---|
+| **Vibe** | Drinks / messy encouraged |
+| **Food** | Good food involved |
+| **Location** | No preference |
+| **Avoid** | Nothing |
+
+### Group Specs
+
+| | |
+|---|---|
+| **Group size** | 9 people including the stag |
+| **Budget** | £200–£350 per person |
+| **Location** | UK based |
+| **Stag's costs** | All happy to chip in and cover the stag |
+
+#### Hangover Scale
+
+> *Epic activities / No hangover → **Good activities / Small hangover** → Wing it on the day / Might be sick → No activities / Not expecting to function*
+
+The group voted: **Good activities / Small hangover**
+
+### Activity Structure
+
+3 activities across the weekend:
+
+- **Memorable** — something that stands out and gets talked about
+- **Competitive** — a bit of edge, a winner and a loser
+- **Social** — good craic, easy going
+
+Plus drinking in the evening, and accommodation factored in.
+
+---
+
 ## Options
 
 ::: {.option-card}
@@ -14,6 +54,8 @@ itinerary, links, videos, and pricing.
 
 Basecamp in Llandudno with high-adrenaline activity days including Zip World
 Caverns, Zip World Quarry Karts, and a Penderyn distillery tour.
+
+**Cost per person (stag goes free): £226–£248**
 
 [View Option 1 details](option-1-north-wales.qmd)
 :::
@@ -23,6 +65,8 @@ Caverns, Zip World Quarry Karts, and a Penderyn distillery tour.
 
 City-based weekend in Bristol with a Beer Bike ride, Cheddar Gorge adventure caving,
 paintball at Bedlam, and a stay at The Bristol Wing hostel.
+
+**Cost per person (stag goes free): £212**
 
 [View Option 2 details](option-2-bristol.qmd)
 :::
