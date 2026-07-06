@@ -1,0 +1,131 @@
+---
+title: "The Final Plan: Nottingham"
+---
+
+::: {.callout-tip}
+## 🎉 Nottingham — 25–27 September 2026
+Everything is booked. This page is your reference for the weekend.
+:::
+
+---
+
+## At a Glance
+
+::: {.schedule-block}
+### Friday 25 Sep
+| | |
+|---|---|
+| **3:00pm** | Check in — Nottingham Central Travelodge |
+| **Evening** | 🍗 Hooters Nottingham *(numbers TBC — see below)* |
+
+### Saturday 26 Sep
+| | |
+|---|---|
+| **10:00am** | 🎯 Arrive Paintball |
+| **10:00am–1:00pm** | Paintball session |
+| **1:00–3:00pm** | 🍔 Lunch + travel to Team Sport |
+| **3:00pm** | ⚠️ Arrive Team Sport *(must be here — 40 mins before slot)* |
+| **3:40–4:40pm** | 🏎️ Karting session |
+| **4:40pm onwards** | Back to hotel — freshen up |
+| **Evening** | 🍽️ Food in the city |
+| **8:30pm** | Head to Bierkeller |
+| **8:30pm–1:30am** | 🍺 The Bierkeller — Oktoberfest Spezial |
+
+### Sunday 27 Sep
+| | |
+|---|---|
+| **By 12:00 noon** | 🧳 Check out of Travelodge |
+:::
+
+---
+
+## Rooms
+
+Each room has 1 king bed + 1 single bed with ensuite. The **lead name** is on the booking.
+
+| Room | Lead Name | Ref | Sharing with |
+|---|---|---|---|
+| Room 1 | Rob Gooding ⭐ *(Stag)* | 208217092 | Jason |
+| Room 2 | Colin Daglish *(Organiser)* | 208217297 | Joe |
+| Room 3 | Alexander Rowland | 208217093 | Andy |
+| Room 4 | Toby Wilcox | 208217872 | Nikos |
+
+---
+
+## Travelodge
+
+**Nottingham Central Travelodge** — Check-in from **3:00pm Friday**, check-out by **12:00 noon Sunday**.
+
+[📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Nottingham+Central+Travelodge){.btn .btn-outline-secondary .btn-sm target="_blank"}
+[📅 Add to Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rob%27s+Stag+Weekend+-+Nottingham&dates=20260925T140000Z/20260927T110000Z&details=Nottingham+Central+Travelodge.+Check-in+from+15%3A00+Friday%2C+check-out+by+12%3A00+Sunday.+4+rooms+booked.&location=Nottingham+Central+Travelodge%2C+Nottingham){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+---
+
+## Friday 25 September
+
+### 🍗 Hooters Nottingham — Friday Night
+
+::: {.callout-caution}
+## ✉️ Action needed — confirm your attendance
+Hooters can't be booked in advance. **Let Colin know if you're coming on Friday night** so we have numbers.
+
+[📍 Hooters on Google Maps](https://www.google.com/maps/search/?api=1&query=Hooters+Nottingham){.btn .btn-outline-secondary .btn-sm target="_blank"}
+[📅 Save the Evening](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rob%27s+Stag+Weekend+-+Friday+Night+%28Hooters%29&dates=20260925T180000Z/20260925T210000Z&details=Hooters+Nottingham+-+exact+time+TBC.+Numbers+needed+first%2C+confirm+with+Colin.&location=Hooters+Nottingham){.btn .btn-outline-primary .btn-sm target="_blank"}
+:::
+
+---
+
+## Saturday 26 September
+
+### 🎯 Paintball — 10:00am–1:00pm
+
+**Recruit Pack** — 550 paintballs, gloves, tac vest, helmet & overalls included.
+
+- Arrive for **10:00am**
+- [PaintballGames.co.uk](https://www.paintballgames.co.uk/adult-paintballing/stag/)
+
+[📍 Google Maps](https://maps.app.goo.gl/BVBRrGDL6DkYqzDx9){.btn .btn-outline-secondary .btn-sm target="_blank"}
+[📅 Add to Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paintball+-+Rob%27s+Stag+Weekend&dates=20260926T090000Z/20260926T120000Z&details=Recruit+Pack+-+550+paintballs%2C+gloves%2C+tac+vest%2C+helmet+%26+overalls.+PaintballGames.co.uk&location=PaintballGames.co.uk+Nottingham){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+---
+
+### 🏎️ Go Karting — 3:40pm–4:40pm
+
+2 × 15-minute sessions on an indoor track — [Team Sport Nottingham](https://www.team-sport.co.uk/go-karting-nottingham/).
+
+::: {.callout-warning}
+## ⏰ Arrive by 3:00pm — no exceptions
+Our booking slot is **3:40pm** but Team Sport require everyone there **40 minutes early**. Be at the venue by **3:00pm**.
+:::
+
+[📍 Google Maps](https://maps.app.goo.gl/H4AazrSH8u3Lu6Jd6){.btn .btn-outline-secondary .btn-sm target="_blank"}
+[📅 Add to Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Go+Karting+-+Rob%27s+Stag+Weekend&dates=20260926T140000Z/20260926T154000Z&details=Arrive+by+15%3A00+%2840+mins+before+booking%29.+Booking+slot%3A+15%3A40.+Finish%3A+16%3A40.+Register+in+advance+before+the+event.&location=Team+Sport+Nottingham%2C+Nottingham){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+::: {.cta-register}
+### ⚠️ Register before the day
+
+All participants must pre-register online — **do this now, not on the day**.
+
+[Register for Karting →](https://kiosk.bmileisure.com/teamsportnottingham/subscribe/event?id=U2FsdGVkX1%2FZLZnhKpJ4tEElXWzyg9M6%2Bc9YCyVoIIexPjIfJERiNmAx0nKFgSLk){.btn .btn-danger .btn-lg target="_blank"}
+:::
+
+---
+
+### 🍺 The Bierkeller Live: Oktoberfest Spezial — 8:30pm–1:30am
+
+Opening night of the Bierkeller's Oktoberfest season. Steins, live band, bratwurst.
+
+- **13 Friar Lane, Nottingham, NG1 6DA**
+- Booking: **8:30pm – 1:30am**
+- [thebierkeller.com/nottingham/oktoberfest-2026](https://thebierkeller.com/nottingham/oktoberfest-2026/)
+
+[📍 Google Maps](https://www.google.com/maps/search/?api=1&query=Bierkeller+13+Friar+Lane+Nottingham+NG1+6DA){.btn .btn-outline-secondary .btn-sm target="_blank"}
+[📅 Add to Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bierkeller+-+Rob%27s+Stag+Night&dates=20260926T193000Z/20260927T003000Z&details=Stag+booking+20%3A30-01%3A30.+The+Bierkeller+Nottingham%2C+13+Friar+Lane%2C+Nottingham+NG1+6DA.&location=The+Bierkeller+Nottingham%2C+13+Friar+Lane%2C+Nottingham%2C+NG1+6DA){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+---
+
+## Sunday 27 September
+
+**Check out by 12:00 noon.** Leave your key at reception and head home.
+
+[📅 Check-out Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Travelodge+Check-out+-+Rob%27s+Stag+Weekend&dates=20260927T110000Z/20260927T110000Z&details=Check+out+of+Nottingham+Central+Travelodge+by+12%3A00+noon.&location=Nottingham+Central+Travelodge%2C+Nottingham){.btn .btn-outline-primary .btn-sm target="_blank"}

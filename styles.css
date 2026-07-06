@@ -18,3 +18,38 @@
     margin: 1rem 0;
     background: #ffffff;
 }
+
+.cta-register {
+    background: #fff3cd;
+    border: 2px solid #ffc107;
+    border-radius: 10px;
+    padding: 1.2rem 1.5rem;
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.cta-register h3 {
+    margin-top: 0;
+    color: #856404;
+}
+
+.cta-register p {
+    margin-bottom: 1rem;
+    color: #664d03;
+}
+
+.schedule-block {
+    background: #f8f9fa;
+    border-left: 4px solid #0d6efd;
+    border-radius: 6px;
+    padding: 0.8rem 1.2rem 0.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.schedule-block h3 {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #495057;
+}

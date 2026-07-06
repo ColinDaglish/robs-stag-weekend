@@ -2,6 +2,11 @@
 title: "Option 1: The North Wales Action Weekend"
 ---
 
+::: {.callout-important}
+## This option is closed
+A decision has been made — **Nottingham was selected**. See [The Final Plan](final-plan.qmd) for full details.
+:::
+
 ## Basecamp
 
 - **Location:** Llandudno, North Wales

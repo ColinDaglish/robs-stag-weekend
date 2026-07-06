@@ -4,8 +4,12 @@ title: "Rob's Stag Weekend"
 
 # Welcome
 
-Welcome to the shortlist for Rob's stag weekend plans. Each option page includes
-itinerary, links, videos, and pricing.
+Nottingham has been selected for Rob's stag weekend — **25–27 September 2026**. The options below are now closed.
+
+::: {.callout-tip}
+## 🎉 The plan is confirmed — head straight to the details
+[View The Final Plan →](final-plan.qmd){.btn .btn-primary}
+:::
 
 ---
 
@@ -50,34 +54,34 @@ Plus drinking in the evening, and accommodation factored in.
 ## Options
 
 ::: {.option-card}
-### Option 1: The North Wales Action Weekend
+### ~~Option 1: The North Wales Action Weekend~~
 
 Basecamp in Llandudno with high-adrenaline activity days including Zip World
 Caverns and Zip World Quarry Karts.
 
 **Cost per person (stag goes free): £212–£248 (Travelodge) / £314–£336 (private house)**
 
-[View Option 1 details](option-1-north-wales.qmd)
+[View Option 1 details](option-1-north-wales.qmd) *(closed)*
 :::
 
 ::: {.option-card}
-### Option 2: Bristol
+### ~~Option 2: Bristol~~
 
 City-based weekend in Bristol with a Beer Bike ride, Cheddar Gorge adventure caving,
 paintball at Bedlam, and a stay at The Bristol Wing hostel.
 
 **Cost per person (stag goes free): £212**
 
-[View Option 2 details](option-2-bristol.qmd)
+[View Option 2 details](option-2-bristol.qmd) *(closed)*
 :::
 
 ::: {.option-card}
-### Option 3: Nottingham
+### ✅ Option 3: Nottingham — Selected
 
 City-based weekend in Nottingham with stag paintball, indoor go karting at Team Sport,
-a Bierkeller Oktoberfest evening, and a 5-bedroom house for the group.
+a Bierkeller Oktoberfest evening, and a Travelodge for the group.
 
 **Cost per person (stag goes free): £211–£214**
 
-[View Option 3 details](option-3-nottingham.qmd)
+[View The Final Plan](final-plan.qmd) &nbsp;| [View Option 3 details](option-3-nottingham.qmd)
 :::

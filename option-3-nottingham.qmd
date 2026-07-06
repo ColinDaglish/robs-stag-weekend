@@ -2,6 +2,11 @@
 title: "Option 3: Nottingham"
 ---
 
+::: {.callout-tip}
+## ✅ This option was selected
+Nottingham is confirmed! See [The Final Plan](final-plan.qmd) for the full confirmed itinerary, booking details, and calendar links.
+:::
+
 ## Basecamp
 
 - **Location:** Nottingham, East Midlands
